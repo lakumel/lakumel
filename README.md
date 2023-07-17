@@ -25,7 +25,7 @@
   <br>
 
   <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white">
-   <img src="https://img.shields.io/badge/eclips ide-2C2255?style=for-the-badge&logo=eclips ide&logoColor=white">
+   <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipse ide&logoColor=white">
 <br>
 
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
