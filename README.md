@@ -14,7 +14,7 @@
 
 <!--스프링-->
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=Springbot&logoColor=white"> 
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white"> 
 <br>
 
 <!--html/css/java/jquery-->
