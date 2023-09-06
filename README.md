@@ -1,15 +1,28 @@
-  ## Github Stats
+<!-- 헤더 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakumel&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakumel&layout=compact&theme=material-palenight&langs_count=8&hide=HTML,XSLT)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20lakumel&fontSize=60)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lakumel&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+---
+  
+  ## My Github Stats
+
+![lakumel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakumel&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakumel&layout=compact)](https://github.com/lakumel/github-readme-stats)
+---
+<!---->
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lakumel)](https://solved.ac/lakumel)--><br/>
+<!--<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>-->
 
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 기술 STACKS</h1></div>
 
 <div align=center> 
 
+
+
 <!--자바-->
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <br>
 
 <!--스프링-->
