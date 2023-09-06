@@ -109,25 +109,6 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">               
 <img src="https://img.shields.io/badge/NEINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">                 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">                       
-                           
-                              
-                                 
-
-                                 
-                                 
-                                 
-                                 
-                                 
-                                 
-                                 
-                                 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-                                 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-                                 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-                                 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <br>
-
-
-
-
+<br>
 
 </div>
