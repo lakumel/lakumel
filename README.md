@@ -36,7 +36,7 @@
 
 
 <!--프론트-->
-<h3>프론트</h3>
+<h3>Front-end(프론트)</h3>
 <!--html/css/java-->
     
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -54,7 +54,7 @@
 
 
 #
-<h3>백엔드</h3>
+<h3>Back-end(백엔드)</h3>
 <!--자바-->
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <br>
@@ -79,7 +79,7 @@
 
 
 
-<h3>기타</h3>
+<h3>Others(기타)</h3>
 
 <!--윈10/도커/톰캣/리눅스/우분투/vmware/AWS/파일질라/파워쉘-->
 <img src="https://img.shields.io/badge/windows 10-0078D6?style=for-the-badge&logo=windows10&logoColor=white">
@@ -93,6 +93,7 @@
 <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=FileZilla&logoColor=white">
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 <br>
+
 <!--깃허브/깃/노션/피그마-->
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -100,7 +101,7 @@
    <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 #
-<h3>배우는중</h3>
+<h3>Learning(배우는중)</h3>
 
 <img src="https://img.shields.io/badge/microsoft sql server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">        
