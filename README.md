@@ -7,8 +7,9 @@
   
   ## My Github Stats
 
-![lakumel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakumel&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakumel&layout=compact)](https://github.com/lakumel/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakumel&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakumel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 #
 <!---->
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lakumel)](https://solved.ac/lakumel)--><br/>
