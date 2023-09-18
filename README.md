@@ -80,7 +80,7 @@
 <!--gradle/타임리프/제이유닛-->
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
-<img src="https://img.shields.io/badge/Junit-25A162?style=for-the-badge&logo=Junit&logoColor=white">
+<img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=Junit5&logoColor=white">
 
 #
 
