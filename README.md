@@ -116,7 +116,9 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">            
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">               
 <img src="https://img.shields.io/badge/NEINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">                 
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">                       
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">   
+<img src="https://img.shields.io/badge/React query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> 
 <br>
 
 </div>
