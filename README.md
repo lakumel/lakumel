@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20lakumel&fontSize=60)
 
+<img src='https://github-widgetbox.vercel.app/api/profile?username=lakumel&data=followers,repositories,stars,commits'>
+
 <!--트로피-->
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=lakumel&row=1)](https://github.com/ryo-ma/github-profile-trophy)
  <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
