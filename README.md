@@ -116,6 +116,9 @@
 
 <!--JSON/KUBERNETES/Slack/React-Query/NEINX/REDIS/MongoDB/MaroaDB/MsSQL/-->
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<br>
+
 <img src="https://img.shields.io/badge/React query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">        
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">         
@@ -137,12 +140,12 @@
 <h3>Learning(배우고 싶은 것)</h3>
 
 <!--언어-->
-<!--C/C++/go/파이썬/장고/루비-->
+<!--C/C++/go/장고/루비-->
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> 
 <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/RUBY-CC342D?style=for-the-badge&logo=RUBY&logoColor=white">
 <br>
