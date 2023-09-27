@@ -2,8 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20lakumel&fontSize=60)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lakumel&row=1)](https://github.com/ryo-ma/github-profile-trophy)
----
+<!--트로피-->
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=lakumel&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+ <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
+
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=lakumel&theme=dracula&column=6'>
+
 <!--윈도우10/델
 
 <img src="https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=Dell&logoColor=white">
