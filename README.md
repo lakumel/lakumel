@@ -2,13 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20lakumel&fontSize=60)
 
+<!--정보-->
 <img src='https://github-widgetbox.vercel.app/api/profile?username=lakumel&data=followers,repositories,stars,commits'>
 
-<!--트로피-->
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=lakumel&row=1)](https://github.com/ryo-ma/github-profile-trophy)
- <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
-
-<img src='https://hacked-github-stat-trophies.vercel.app/?username=lakumel&theme=dracula&column=6'>
 
 <!--윈도우10/델
 
@@ -18,22 +14,36 @@
 <h4>Integrated Development Environment(개발환경)</h4>
 <p>
 
+
 <!--vscode/이클립스/인텔리제이-->
  <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
  <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
  <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <br>
-  
+
+
+#  
+<!--트로피-->
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=lakumel&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+ <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=lakumel&theme=dracula&column=6'>
+
+
   ## My Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakumel&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakumel&layout=compact&theme=material-palenight&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
+  <!--
 깃 스텟
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakumel&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakumel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=lakumel&count_private=true&show_icons=true&theme=dracula' />
 -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakumel&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakumel&layout=compact&theme=material-palenight&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=lakumel&theme=dracula' />
+
+
 
 <!---->
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lakumel)](https://solved.ac/lakumel)--><br/>
