@@ -32,16 +32,16 @@
   ## My Github Stats
 
   <!--
-깃 스텟
+깃 스텟 주석
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakumel&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakumel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=lakumel&count_private=true&show_icons=true&theme=dracula' />
 -->
 
-
+<!--깃스텟-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakumel&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakumel&layout=compact&theme=material-palenight&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=lakumel&theme=dracula' />
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=lakumel&theme=dracula' />
 
 
 
