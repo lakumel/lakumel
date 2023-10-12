@@ -39,9 +39,11 @@
 -->
 
 <!--깃스텟-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakumel&show_icons=true&theme=transparent)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lakumel&hide_border=%EA%B1%B0%EC%A7%93&border_radius=4&locale=ko)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakumel&layout=compact&theme=material-palenight&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=lakumel&theme=dracula' />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakumel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 
 
